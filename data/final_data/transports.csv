@@ -1,0 +1,1951 @@
+nom;mode;operateur
+5199;Bus;Francilité Saint-Quentin-en-Yvelines
+428;Bus;Transdev Côteaux de la Marne
+427;Bus;Transdev Côteaux de la Marne
+4115;Bus;Keolis Val d'Yerres Val de Seine
+4119;Bus;Keolis Val d'Yerres Val de Seine
+4158;Bus;Keolis Val d'Yerres Val de Seine
+4134;Bus;Keolis Val d'Yerres Val de Seine
+450;Bus;Transdev Côteaux de la Marne
+4111;Bus;Keolis Val d'Yerres Val de Seine
+4131;Bus;Keolis Val d'Yerres Val de Seine
+4154;Bus;Keolis Val d'Yerres Val de Seine
+4133;Bus;Keolis Val d'Yerres Val de Seine
+4132;Bus;Keolis Val d'Yerres Val de Seine
+4110;Bus;Keolis Val d'Yerres Val de Seine
+429;Bus;Transdev Côteaux de la Marne
+449;Bus;Transdev Côteaux de la Marne
+4130;Bus;Keolis Val d'Yerres Val de Seine
+4135;Bus;Keolis Val d'Yerres Val de Seine
+4152;Bus;Keolis Val d'Yerres Val de Seine
+4153;Bus;Keolis Val d'Yerres Val de Seine
+4120;Bus;Keolis Val d'Yerres Val de Seine
+1304;Bus;Keolis Nord Val d’Oise
+1303;Bus;Keolis Nord Val d’Oise
+1309;Bus;Keolis Nord Val d’Oise
+82;Bus;RATP
+83;Bus;RATP
+84;Bus;RATP
+85;Bus;RATP
+6204;Bus;Transdev Versailles
+6205;Bus;Transdev Versailles
+6206;Bus;Transdev Versailles
+6207;Bus;Transdev Versailles
+6208;Bus;Transdev Versailles
+6209;Bus;Transdev Versailles
+6210;Bus;Transdev Versailles
+6135;Bus;Keolis Vélizy Vallée de la Bièvre
+6136;Bus;Keolis Vélizy Vallée de la Bièvre
+6213;Bus;Transdev Versailles
+6171;Bus;Keolis Vélizy Vallée de la Bièvre
+6172;Bus;Keolis Vélizy Vallée de la Bièvre
+6173;Bus;Keolis Vélizy Vallée de la Bièvre
+6174;Bus;Keolis Vélizy Vallée de la Bièvre
+6285;Bus;Transdev Versailles
+6286;Bus;Transdev Versailles
+5421;Bus;RD Mantois
+5465;Bus;RD Mantois
+5424;Bus;RD Mantois
+5467;Bus;RD Mantois
+5409;Bus;RD Mantois
+5455;Bus;RD Mantois
+5476;Bus;RD Mantois
+5447;Bus;RD Mantois
+5478;Bus;RD Mantois
+TILLBUS;Bus;RATP
+BATIGNO;Bus;RATP
+NEY-FLA;Bus;RATP
+520;Bus;RATP
+MONTBUS;Bus;Transdev Vallée Sud
+AUDONIE;Bus;RATP
+EOLIEN;Bus;RATP
+AS;Bus;RATP
+TUB;Bus;RATP
+559;Bus;RATP
+V4;Bus;RATP
+564;Bus;RATP
+565;Bus;RATP
+TIM;Bus;Mobicité
+SUBB;Bus;Mobicité
+TUC;Bus;RATP
+RIVER;Bus;RATP
+CLAM;Bus;Transdev Vallée Sud
+V3;Bus;RATP
+CHOISYBUS;Bus;Paris Seine Mobilités
+V2;Bus;RATP
+V5;Bus;RATP
+V7;Bus;RATP
+TUVIM CV;Bus;Mobicité
+AMIBUS;Bus;Transdev Vallée Sud
+67E;Bus;Transdev Brie et 2 Morin
+4551;Bus;Transdev Cœur Essonne
+4552;Bus;Transdev Cœur Essonne
+4582;Bus;Transdev Cœur Essonne
+4576;Bus;Transdev Cœur Essonne
+4578;Bus;Transdev Cœur Essonne
+4439;Bus;Francilité Ouest Essonne
+4438;Bus;Francilité Ouest Essonne
+4440;Bus;Francilité Ouest Essonne
+4570;Bus;Transdev Cœur Essonne
+4555;Bus;Transdev Cœur Essonne
+4459;Bus;Francilité Ouest Essonne
+4412;Bus;Francilité Ouest Essonne
+4401;Bus;Francilité Ouest Essonne
+4402;Bus;Francilité Ouest Essonne
+4407;Bus;Francilité Ouest Essonne
+4408;Bus;Francilité Ouest Essonne
+4410;Bus;Francilité Ouest Essonne
+4403;Bus;Francilité Ouest Essonne
+4405;Bus;Francilité Ouest Essonne
+4409;Bus;Francilité Ouest Essonne
+4231;Bus;TISSE
+4271;Bus;TISSE
+4232;Bus;TISSE
+3754;Bus;Transdev Senart
+3779;Bus;Transdev Senart
+3775;Bus;Transdev Senart
+3703;Bus;Transdev Senart
+3753;Bus;Transdev Senart
+3711;Bus;Transdev Senart
+3712;Bus;Transdev Senart
+3713;Bus;Transdev Senart
+3736;Bus;Transdev Senart
+3741;Bus;Transdev Senart
+3742;Bus;Transdev Senart
+3743;Bus;Transdev Senart
+3744;Bus;Transdev Senart
+Tzen1;Bus;Transdev Senart
+3774;Bus;Transdev Senart
+3714;Bus;Transdev Senart
+3704;Bus;Transdev Senart
+3722;Bus;Transdev Senart
+3725;Bus;Transdev Senart
+3724;Bus;Transdev Senart
+3726;Bus;Transdev Senart
+3723;Bus;Transdev Senart
+3732;Bus;Transdev Senart
+4622;Bus;RD Saclay
+6164;Bus;Keolis Vélizy Vallée de la Bièvre
+6161;Bus;Keolis Vélizy Vallée de la Bièvre
+6162;Bus;Keolis Vélizy Vallée de la Bièvre
+4571;Bus;Transdev Cœur Essonne
+4572;Bus;Transdev Cœur Essonne
+4573;Bus;Transdev Cœur Essonne
+4574;Bus;Transdev Cœur Essonne
+4436;Bus;Francilité Ouest Essonne
+30-47;Bus;Francilité Val Parisis
+487;Bus;RATP
+DM11E;Bus;RD Saclay
+Filéo SF;Bus;Keolis Roissy Pays de France Ouest
+2228;Bus;Transdev Marne-la-Vallée
+4240;Bus;TISSE
+13A;Bus;Transdev Brie et 2 Morin
+13B;Bus;Transdev Brie et 2 Morin
+8;Bus;Keolis Grand Paris Vallée de la Marne
+5253;Bus;Transdev Sud Yvelines
+5277;Bus;Transdev Sud Yvelines
+5307;Bus;Transdev Sud Yvelines
+3210;Bus;Francilité Grand Provinois
+3217;Bus;Francilité Grand Provinois
+4502;Bus;Transdev Cœur Essonne
+3203;Bus;Francilité Grand Provinois
+5197;Bus;Francilité Saint-Quentin-en-Yvelines
+3705;Bus;Transdev Senart
+4216;Bus;TISSE
+4583;Bus;Transdev Cœur Essonne
+1222;Bus;Francilité Seine et Oise
+5131;Bus;Francilité Saint-Quentin-en-Yvelines
+5130;Bus;Francilité Saint-Quentin-en-Yvelines
+35;Bus;RATP
+3;Bus;Keolis Argenteuil Boucles de Seine
+1221;Bus;Francilité Seine et Oise
+3308;Bus;Francilité Pays de Montereau
+6131;Bus;Keolis Vélizy Vallée de la Bièvre
+6177;Bus;Keolis Vélizy Vallée de la Bièvre
+6184;Bus;Keolis Vélizy Vallée de la Bièvre
+6179;Bus;Keolis Vélizy Vallée de la Bièvre
+6180;Bus;Keolis Vélizy Vallée de la Bièvre
+6181;Bus;Keolis Vélizy Vallée de la Bièvre
+6182;Bus;Keolis Vélizy Vallée de la Bièvre
+247;Bus;RATP
+248;Bus;RATP
+4602;Bus;RD Saclay
+4621;Bus;RD Saclay
+5102;Bus;Francilité Saint-Quentin-en-Yvelines
+5115;Bus;Francilité Saint-Quentin-en-Yvelines
+5111;Bus;Francilité Saint-Quentin-en-Yvelines
+6243;Bus;Transdev Versailles
+6251;Bus;Transdev Versailles
+5288;Bus;Transdev Sud Yvelines
+30-48;Bus;Francilité Val Parisis
+30-46;Bus;Francilité Val Parisis
+30-07;Bus;Francilité Val Parisis
+2224;Bus;Transdev Marne-la-Vallée
+P'TIT BUS;Bus;Paris Seine Mobilités
+F;Bus;Autocars Dominique
+H;Bus;Autocars Dominique
+L;Bus;Autocars Dominique
+6284;Bus;Transdev Versailles
+6516;Bus;Keolis Seine et Oise Est
+3408;Bus;Transdev Pays de Fontainebleau
+5401;Bus;RD Mantois
+4532;Bus;Transdev Cœur Essonne
+7812;Bus;Transdev Sud Yvelines
+5349;Bus;Transdev Sud Yvelines
+5249;Bus;Transdev Sud Yvelines
+5259;Bus;Transdev Sud Yvelines
+5379;Bus;Transdev Sud Yvelines
+4219;Bus;TISSE
+N132;Bus;Transdev Pays de Fontainebleau
+N130;Bus;Transdev Brie et 2 Morin
+N151;Bus;RD Mantois
+N131;Bus;Transdev Cœur Essonne
+N150;Bus;Transdev Vexin
+N140;Bus;Keolis Roissy Pays de France Ouest
+N141;Bus;Transdev Marne-et-Ourcq
+N142;Bus;Keolis Portes et Val de Brie
+N152;Bus;Transdev Vexin
+N134;Bus;Keolis Val d'Yerres Val de Seine
+N135;Bus;Keolis Val d'Yerres Val de Seine
+N139;Bus;TISSE
+N161;Bus;Transdev Sud Yvelines
+N154;Bus;Transdev Vexin
+N133;Bus;Keolis Val d'Yerres Val de Seine
+S1;Bus;RD Saclay
+S3;Bus;RD Saclay
+S4;Bus;RD Saclay
+418;Bus;RD Bièvre
+415;Bus;RD Bièvre
+1301;Bus;Keolis Nord Val d’Oise
+1302;Bus;Keolis Nord Val d’Oise
+1356;Bus;Keolis Nord Val d’Oise
+4517;Bus;Transdev Cœur Essonne
+4280;Bus;TISSE
+4518;Bus;Transdev Cœur Essonne
+4539;Bus;Transdev Cœur Essonne
+DM10A;Bus;RD Saclay
+DM10S;Bus;RD Saclay
+DM11G;Bus;RD Saclay
+DM11A;Bus;RD Saclay
+DM12;Bus;RD Saclay
+4543;Bus;Transdev Cœur Essonne
+4537;Bus;Transdev Cœur Essonne
+4542;Bus;Transdev Cœur Essonne
+17;Bus;RD Saclay
+4538;Bus;Transdev Cœur Essonne
+4550;Bus;Transdev Cœur Essonne
+4521;Bus;Transdev Cœur Essonne
+4522;Bus;Transdev Cœur Essonne
+4223;Bus;TISSE
+DM11C;Bus;RD Saclay
+4556;Bus;Transdev Cœur Essonne
+9115;Bus;Transdev Cœur Essonne
+4503;Bus;Transdev Cœur Essonne
+6201;Bus;Transdev Versailles
+6202;Bus;Transdev Versailles
+6203;Bus;Transdev Versailles
+1202;Bus;Francilité Seine et Oise
+1223;Bus;Francilité Seine et Oise
+1224;Bus;Francilité Seine et Oise
+1201;Bus;Francilité Seine et Oise
+1237;Bus;Francilité Seine et Oise
+1207;Bus;Francilité Seine et Oise
+1208;Bus;Francilité Seine et Oise
+1226;Bus;Francilité Seine et Oise
+1232;Bus;Francilité Seine et Oise
+1228;Bus;Francilité Seine et Oise
+1241;Bus;Francilité Seine et Oise
+1242;Bus;Francilité Seine et Oise
+3409;Bus;Transdev Pays de Fontainebleau
+3405;Bus;Transdev Pays de Fontainebleau
+3406;Bus;Transdev Pays de Fontainebleau
+3441;Bus;Transdev Pays de Fontainebleau
+3442;Bus;Transdev Pays de Fontainebleau
+3444;Bus;Transdev Pays de Fontainebleau
+3445;Bus;Transdev Pays de Fontainebleau
+3401;Bus;Transdev Pays de Fontainebleau
+3404;Bus;Transdev Pays de Fontainebleau
+3403;Bus;Transdev Pays de Fontainebleau
+3412;Bus;Transdev Pays de Fontainebleau
+46;Bus;Francilité Pays de Montereau
+3439;Bus;Transdev Pays de Fontainebleau
+5479;Bus;RD Mantois
+5480;Bus;RD Mantois
+5422;Bus;RD Mantois
+5486;Bus;RD Mantois
+5482;Bus;RD Mantois
+5457;Bus;RD Mantois
+5451;Bus;RD Mantois
+5452;Bus;RD Mantois
+5469;Bus;RD Mantois
+5470;Bus;RD Mantois
+7822;Bus;Keolis Seine et Oise Est
+5438;Bus;RD Mantois
+5490;Bus;RD Mantois
+5448;Bus;RD Mantois
+5489;Bus;RD Mantois
+5491;Bus;RD Mantois
+5458;Bus;RD Mantois
+1230;Bus;Francilité Seine et Oise
+1203;Bus;Francilité Seine et Oise
+1206;Bus;Francilité Seine et Oise
+1236;Bus;Francilité Seine et Oise
+1238;Bus;Francilité Seine et Oise
+1239;Bus;Francilité Seine et Oise
+1240;Bus;Francilité Seine et Oise
+3633;Bus;Transdev Melun
+3106;Bus;Keolis Portes et Val de Brie
+3443;Bus;Transdev Pays de Fontainebleau
+3665;Bus;Transdev Melun
+34;Bus;Transdev Vallée du Loing
+3432;Bus;Transdev Pays de Fontainebleau
+3431;Bus;Transdev Pays de Fontainebleau
+3503;Bus;Transdev Vallée du Loing
+3530;Bus;Transdev Vallée du Loing
+3534;Bus;Transdev Vallée du Loing
+3540;Bus;Transdev Vallée du Loing
+3543;Bus;Transdev Vallée du Loing
+3510;Bus;Transdev Vallée du Loing
+3515;Bus;Transdev Vallée du Loing
+3518;Bus;Transdev Vallée du Loing
+3437;Bus;Transdev Pays de Fontainebleau
+3536;Bus;Transdev Vallée du Loing
+3544;Bus;Transdev Vallée du Loing
+3501;Bus;Transdev Vallée du Loing
+3502;Bus;Transdev Vallée du Loing
+3504;Bus;Transdev Vallée du Loing
+3505;Bus;Transdev Vallée du Loing
+7715;Bus;Transdev Senart
+3751;Bus;Transdev Senart
+3755;Bus;Transdev Senart
+T1;Tramway;RATP
+T2;Tramway;RATP
+T3a;Tramway;RATP
+T3b;Tramway;RATP
+T5;Tramway;RATP
+T7;Tramway;RATP
+T6;Tramway;RATP
+T8;Tramway;RATP
+T4;Tramway;STRETTO
+T11;Tramway;STRETTO
+T9;Tramway;Keolis Ouest Val-de-Marne
+T13;Tramway;SNCF
+T10;Tramway;RD Bièvre
+T12;Tramway;SNCF
+1;Metro;RATP
+2;Metro;RATP
+3;Metro;RATP
+4;Metro;RATP
+5;Metro;RATP
+6;Metro;RATP
+7;Metro;RATP
+8;Metro;RATP
+201;Bus;RATP
+203;Bus;RATP
+206;Bus;RATP
+207;Bus;RATP
+208;Bus;RATP
+210;Bus;RATP
+211;Bus;RATP
+212;Bus;RATP
+213;Bus;RATP
+214;Bus;RATP
+215;Bus;RATP
+216;Bus;RATP
+217;Bus;RATP
+220;Bus;RATP
+221;Bus;RATP
+234;Bus;RATP
+235;Bus;RATP
+237;Bus;RATP
+238;Bus;RATP
+239;Bus;RATP
+241;Bus;RATP
+244;Bus;RATP
+249;Bus;RATP
+250;Bus;RATP
+251;Bus;RATP
+D;Bus;Keolis Grand Paris Vallée de la Marne
+B;Bus;Keolis Grand Paris Vallée de la Marne
+C;Bus;Keolis Grand Paris Vallée de la Marne
+6132;Bus;Keolis Vélizy Vallée de la Bièvre
+6175;Bus;Keolis Vélizy Vallée de la Bièvre
+6178;Bus;Keolis Vélizy Vallée de la Bièvre
+6133;Bus;Keolis Vélizy Vallée de la Bièvre
+6124;Bus;Keolis Vélizy Vallée de la Bièvre
+60;Bus;RD Saclay
+6140;Bus;Keolis Vélizy Vallée de la Bièvre
+6142;Bus;Keolis Vélizy Vallée de la Bièvre
+6123;Bus;Keolis Vélizy Vallée de la Bièvre
+6145;Bus;Keolis Vélizy Vallée de la Bièvre
+6122;Bus;Keolis Vélizy Vallée de la Bièvre
+5332;Bus;Transdev Sud Yvelines
+5209;Bus;Transdev Sud Yvelines
+5213;Bus;Transdev Sud Yvelines
+5116;Bus;Francilité Express Ouest
+7806;Bus;Transdev Sud Yvelines
+5367;Bus;Transdev Sud Yvelines
+20;Bus;RD Saclay
+3;Bus;RD Saclay
+4;Bus;RD Saclay
+5;Bus;RD Saclay
+7;Bus;RD Saclay
+8;Bus;RD Saclay
+1;Bus;RD Saclay
+14;Bus;RD Saclay
+S15;Bus;RD Saclay
+16;Bus;RD Saclay
+19;Bus;RD Saclay
+4437;Bus;Francilité Ouest Essonne
+4553;Bus;Transdev Cœur Essonne
+437;Bus;Transdev Côteaux de la Marne
+438;Bus;Transdev Côteaux de la Marne
+4511;Bus;Transdev Cœur Essonne
+4512;Bus;Transdev Cœur Essonne
+4514;Bus;Transdev Cœur Essonne
+4501;Bus;Transdev Cœur Essonne
+4305;Bus;Keolis Val d'Essonne Deux Vallées
+114;Bus;RD Saclay
+4515;Bus;Transdev Cœur Essonne
+4442;Bus;Francilité Ouest Essonne
+4441;Bus;Francilité Ouest Essonne
+4323;Bus;Keolis Val d'Essonne Deux Vallées
+4324;Bus;Keolis Val d'Essonne Deux Vallées
+4325;Bus;Keolis Val d'Essonne Deux Vallées
+4510;Bus;Transdev Cœur Essonne
+4413;Bus;Francilité Ouest Essonne
+439;Bus;Transdev Côteaux de la Marne
+3727;Bus;Transdev Senart
+382;Bus;RATP
+4524;Bus;Transdev Cœur Essonne
+1517;Bus;Transdev Valmy
+1527;Bus;Transdev Valmy
+Soir;Bus;Transdev Valmy
+TàD 4591;Bus;Transdev Cœur Essonne
+TàD 4592;Bus;Transdev Cœur Essonne
+TàD 4595;Bus;Transdev Cœur Essonne
+T13;Bus;SNCF
+4411;Bus;Francilité Ouest Essonne
+4414;Bus;Francilité Ouest Essonne
+4415;Bus;Francilité Ouest Essonne
+Soir;Bus;Francilité Ouest Essonne
+Soir;Bus;Keolis Roissy Pays de France Est
+6185;Bus;Keolis Vélizy Vallée de la Bièvre
+5441;Bus;RD Mantois
+5411;Bus;RD Mantois
+5322;Bus;Transdev Sud Yvelines
+6288;Bus;Transdev Versailles
+TàD;Bus;Keolis Vélizy Vallée de la Bièvre
+TàD;Bus;Transdev Marne-et-Ourcq
+4215;Bus;TISSE
+4270;Bus;TISSE
+4278;Bus;TISSE
+4279;Bus;TISSE
+4222;Bus;TISSE
+5297;Bus;Transdev Sud Yvelines
+5296;Bus;Transdev Sud Yvelines
+277;Bus;RATP
+363;Bus;RATP
+Soir;Bus;Transdev Vallée du Loing
+Soir;Bus;Keolis Val d'Yerres Val de Seine
+4157;Bus;Keolis Val d'Yerres Val de Seine
+1433;Bus;Francilité Val Parisis
+6535;Bus;Keolis Seine et Oise Est
+6550;Bus;Keolis Seine et Oise Est
+6577;Bus;Keolis Seine et Oise Est
+6578;Bus;Keolis Seine et Oise Est
+N146;Bus;Keolis Roissy Pays de France Ouest
+R121;Bus;Keolis Roissy Pays de France Ouest
+Soir;Bus;Keolis Roissy Pays de France Ouest
+R9;Bus;Keolis Roissy Pays de France Ouest
+4347;Bus;Keolis Val d'Essonne Deux Vallées
+4348;Bus;Keolis Val d'Essonne Deux Vallées
+4349;Bus;Keolis Val d'Essonne Deux Vallées
+3559;Bus;Transdev Vallée du Loing
+3452;Bus;Transdev Pays de Fontainebleau
+11;Bus;Transdev Boucle des Lys
+12;Bus;Transdev Boucle des Lys
+3102;Bus;Keolis Portes et Val de Brie
+Gs;Bus;Transdev Marne-et-Ourcq
+3108;Bus;Keolis Portes et Val de Brie
+3141;Bus;Keolis Portes et Val de Brie
+3142;Bus;Keolis Portes et Val de Brie
+W;Bus;Autocars Dominique
+N147;Bus;Keolis Nord Val d’Oise
+1235;Bus;Francilité Seine et Oise
+Soir;Bus;Keolis Seine et Oise Est
+N;Bus;Keolis Argenteuil Boucles de Seine
+6572;Bus;Keolis Seine et Oise Est
+6574;Bus;Keolis Seine et Oise Est
+6575;Bus;Keolis Seine et Oise Est
+6501;Bus;Keolis Seine et Oise Est
+6502;Bus;Keolis Seine et Oise Est
+6505;Bus;Keolis Seine et Oise Est
+6506;Bus;Keolis Seine et Oise Est
+6507;Bus;Keolis Seine et Oise Est
+6513;Bus;Keolis Seine et Oise Est
+6514;Bus;Keolis Seine et Oise Est
+Soir;Bus;Francilité Pays de Montereau
+TàD;Bus;Francilité Grand Provinois
+Soir;Bus;Francilité Grand Provinois
+TàD;Bus;Keolis Seine et Oise Est
+N137;Bus;Transdev Pays de Fontainebleau
+Soir;Bus;Transdev Pays de Fontainebleau
+T12;Bus;SNCF
+R;Bus;Autocars Dominique
+4318;Bus;Keolis Val d'Essonne Deux Vallées
+6595;Bus;Keolis Seine et Oise Est
+6515;Bus;Keolis Seine et Oise Est
+311;Bus;RATP
+6524;Bus;Keolis Seine et Oise Est
+6519;Bus;Keolis Seine et Oise Est
+6525;Bus;Keolis Seine et Oise Est
+6590;Bus;Keolis Seine et Oise Est
+6592;Bus;Keolis Seine et Oise Est
+6594;Bus;Keolis Seine et Oise Est
+6551;Bus;Keolis Seine et Oise Est
+6552;Bus;Keolis Seine et Oise Est
+6553;Bus;Keolis Seine et Oise Est
+6554;Bus;Keolis Seine et Oise Est
+6555;Bus;Keolis Seine et Oise Est
+6556;Bus;Keolis Seine et Oise Est
+6557;Bus;Keolis Seine et Oise Est
+6558;Bus;Keolis Seine et Oise Est
+6559;Bus;Keolis Seine et Oise Est
+6564;Bus;Keolis Seine et Oise Est
+6565;Bus;Keolis Seine et Oise Est
+6566;Bus;Keolis Seine et Oise Est
+6567;Bus;Keolis Seine et Oise Est
+6568;Bus;Keolis Seine et Oise Est
+6569;Bus;Keolis Seine et Oise Est
+P;Bus;Transdev Brie et 2 Morin
+3219;Bus;Francilité Grand Provinois
+S2;Bus;RD Saclay
+BUSRERB;Bus;SNCF
+4332;Bus;Keolis Val d'Essonne Deux Vallées
+30-21Est;Bus;Francilité Val Parisis
+4272;Bus;TISSE
+4345;Bus;Keolis Val d'Essonne Deux Vallées
+9114;Bus;Transdev Cœur Essonne
+DM151S;Bus;RD Saclay
+4520;Bus;Transdev Cœur Essonne
+4577;Bus;Transdev Cœur Essonne
+4579;Bus;Transdev Cœur Essonne
+34S2;Bus;Transdev Brie et 2 Morin
+34S3;Bus;Transdev Brie et 2 Morin
+DM152S;Bus;RD Saclay
+BUS T1;Bus;RATP
+95-15;Bus;Transdev Vexin
+86;Bus;RATP
+95-50;Bus;Transdev Vexin
+95-49;Bus;Transdev Vexin
+95-51;Bus;Transdev Vexin
+87;Bus;RATP
+4535;Bus;Transdev Cœur Essonne
+TàD;Bus;Transdev Valmy
+88;Bus;RATP
+M;Bus;Autocars Dominique
+6214;Bus;Transdev Versailles
+3425;Bus;Transdev Pays de Fontainebleau
+193;Bus;RATP
+89;Bus;RATP
+3427;Bus;Transdev Pays de Fontainebleau
+3426;Bus;Transdev Pays de Fontainebleau
+TàD;Bus;Transdev Brie et 2 Morin
+3660;Bus;Transdev Melun
+3216;Bus;Francilité Grand Provinois
+4456;Bus;Francilité Ouest Essonne
+4458;Bus;Francilité Ouest Essonne
+2245;Bus;Transdev Marne-la-Vallée
+91;Bus;RATP
+92;Bus;RATP
+469;Bus;Mobicité
+GPSO Bus;Bus;Mobicité
+ChavilBus;Bus;Mobicité
+21s;Bus;Transdev Boucle des Lys
+93;Bus;RATP
+3144;Bus;Keolis Portes et Val de Brie
+5310;Bus;Transdev Sud Yvelines
+263;Bus;RATP
+94;Bus;RATP
+6;Bus;RD Saclay
+95;Bus;RATP
+8AS;Bus;Transdev Brie et 2 Morin
+445;Bus;Transdev Côteaux de la Marne
+18;Bus;RD Saclay
+56;Bus;Keolis Argenteuil Boucles de Seine
+57;Bus;Keolis Argenteuil Boucles de Seine
+96;Bus;RATP
+Soir;Bus;Transdev Marne-et-Ourcq
+Soir;Bus;Transdev Boucle des Lys
+101;Bus;RATP
+102;Bus;RATP
+TàD 4305;Bus;Keolis Val d'Essonne Deux Vallées
+TàD 4301;Bus;Keolis Val d'Essonne Deux Vallées
+E;Bus;Autocars Dominique
+103;Bus;RATP
+Y;Bus;Autocars Dominique
+104;Bus;RATP
+Z;Bus;Autocars Dominique
+T;Bus;Autocars Dominique
+105;Bus;RATP
+U;Bus;Autocars Dominique
+V;Bus;Autocars Dominique
+TàD;Bus;Transdev Boucle des Lys
+Q;Bus;Autocars Dominique
+Soir;Bus;Keolis Vélizy Vallée de la Bièvre
+CitéVal;Bus;Francilité Val Parisis
+106;Bus;RATP
+3113;Bus;Keolis Portes et Val de Brie
+3116;Bus;Keolis Portes et Val de Brie
+107;Bus;RATP
+TàD;Bus;Keolis Portes et Val de Brie
+Soir;Bus;Keolis Portes et Val de Brie
+N155;Bus;Keolis Seine et Oise Est
+108;Bus;RATP
+109;Bus;RATP
+110;Bus;RATP
+111;Bus;RATP
+6521;Bus;Keolis Seine et Oise Est
+6522;Bus;Keolis Seine et Oise Est
+5444;Bus;RD Mantois
+5445;Bus;RD Mantois
+6573;Bus;Keolis Seine et Oise Est
+6511;Bus;Keolis Seine et Oise Est
+5314;Bus;Transdev Sud Yvelines
+6217;Bus;Transdev Versailles
+7819;Bus;Keolis Seine et Oise Est
+6593;Bus;Keolis Seine et Oise Est
+6533;Bus;Keolis Seine et Oise Est
+6526;Bus;Keolis Seine et Oise Est
+5484;Bus;RD Mantois
+5341;Bus;Transdev Sud Yvelines
+5442;Bus;RD Mantois
+5443;Bus;RD Mantois
+6283;Bus;Transdev Versailles
+5270;Bus;Transdev Sud Yvelines
+5271;Bus;Transdev Sud Yvelines
+5299;Bus;Transdev Sud Yvelines
+6560;Bus;Keolis Seine et Oise Est
+6561;Bus;Keolis Seine et Oise Est
+6562;Bus;Keolis Seine et Oise Est
+5211;Bus;Transdev Sud Yvelines
+5212;Bus;Transdev Sud Yvelines
+7810;Bus;Transdev Sud Yvelines
+V6;Bus;RATP
+FONT;Bus;Transdev Vallée Sud
+7811;Bus;Transdev Sud Yvelines
+HIRO;Bus;Transdev Vallée Sud
+5215;Bus;Transdev Sud Yvelines
+5318;Bus;Transdev Sud Yvelines
+5320;Bus;Transdev Sud Yvelines
+4450;Bus;Francilité Ouest Essonne
+N24;Bus;RATP
+5224;Bus;Transdev Sud Yvelines
+5225;Bus;Transdev Sud Yvelines
+5269;Bus;Transdev Sud Yvelines
+5230;Bus;Transdev Sud Yvelines
+5333;Bus;Transdev Sud Yvelines
+1;Bus;Transdev Nord Seine-Saint-Denis
+N52;Bus;RATP
+11;Bus;Keolis Roissy Pays de France Ouest
+1312;Bus;Keolis Nord Val d’Oise
+1314;Bus;Keolis Nord Val d’Oise
+N51;Bus;RATP
+15;Bus;Transdev Nord Seine-Saint-Denis
+2116;Bus;Keolis Roissy Pays de France Est
+2117;Bus;Keolis Roissy Pays de France Est
+2118;Bus;Keolis Roissy Pays de France Est
+2119;Bus;Keolis Roissy Pays de France Est
+2121;Bus;Keolis Roissy Pays de France Est
+N44;Bus;RATP
+R6;Bus;Keolis Roissy Pays de France Ouest
+R7;Bus;Keolis Roissy Pays de France Ouest
+R110;Bus;Keolis Roissy Pays de France Ouest
+R111;Bus;Keolis Roissy Pays de France Ouest
+R112;Bus;Keolis Roissy Pays de France Ouest
+R113;Bus;Keolis Roissy Pays de France Ouest
+N42;Bus;RATP
+R104;Bus;Keolis Roissy Pays de France Ouest
+R105;Bus;Keolis Roissy Pays de France Ouest
+R106;Bus;Keolis Roissy Pays de France Ouest
+R107;Bus;Keolis Roissy Pays de France Ouest
+R108;Bus;Keolis Roissy Pays de France Ouest
+R109;Bus;Keolis Roissy Pays de France Ouest
+2101;Bus;Keolis Roissy Pays de France Est
+2102;Bus;Keolis Roissy Pays de France Est
+2103;Bus;Keolis Roissy Pays de France Est
+N23;Bus;RATP
+2104;Bus;Keolis Roissy Pays de France Est
+2107;Bus;Keolis Roissy Pays de France Est
+2108;Bus;Keolis Roissy Pays de France Est
+2109;Bus;Keolis Roissy Pays de France Est
+N34;Bus;RATP
+2110;Bus;Keolis Roissy Pays de France Est
+2111;Bus;Keolis Roissy Pays de France Est
+2163;Bus;Keolis Roissy Pays de France Est
+VITAVIL;Bus;Keolis Roissy Pays de France Ouest
+777;Bus;Transdev Marne-et-Ourcq
+100;Bus;Transdev Côteaux de la Marne
+N33;Bus;RATP
+2122;Bus;Keolis Roissy Pays de France Est
+2123;Bus;Keolis Roissy Pays de France Est
+30 B;Bus;Keolis Roissy Pays de France Ouest
+30 D;Bus;Keolis Roissy Pays de France Ouest
+R8;Bus;Keolis Roissy Pays de France Ouest
+N31;Bus;RATP
+31;Bus;Keolis Roissy Pays de France Ouest
+32;Bus;Keolis Roissy Pays de France Ouest
+33;Bus;Keolis Roissy Pays de France Ouest
+39;Bus;Transdev Nord Seine-Saint-Denis
+43;Bus;Transdev Nord Seine-Saint-Denis
+N21;Bus;RATP
+45;Bus;Transdev Nord Seine-Saint-Denis
+1346;Bus;Keolis Nord Val d’Oise
+1347;Bus;Keolis Nord Val d’Oise
+1348;Bus;Keolis Nord Val d’Oise
+1350;Bus;Keolis Nord Val d’Oise
+2127;Bus;Keolis Roissy Pays de France Est
+EX 93;Bus;Keolis Roissy Pays de France Ouest
+Gbus;Bus;Keolis Roissy Pays de France Ouest
+N61;Bus;RATP
+2176;Bus;Keolis Roissy Pays de France Est
+R117;Bus;Keolis Roissy Pays de France Ouest
+R1;Bus;Keolis Roissy Pays de France Ouest
+R2;Bus;Keolis Roissy Pays de France Ouest
+R3;Bus;Keolis Roissy Pays de France Ouest
+R4;Bus;Keolis Roissy Pays de France Ouest
+R5;Bus;Keolis Roissy Pays de France Ouest
+N62;Bus;RATP
+N32;Bus;RATP
+N45;Bus;RATP
+N43;Bus;RATP
+N22;Bus;RATP
+N63;Bus;RATP
+N53;Bus;RATP
+N71;Bus;RATP
+N41;Bus;RATP
+N35;Bus;RATP
+N01;Bus;RATP
+N02;Bus;RATP
+N11;Bus;RATP
+N16;Bus;RATP
+N15;Bus;RATP
+N14;Bus;RATP
+N13;Bus;RATP
+N12;Bus;RATP
+N122;Bus;Transdev Sud Yvelines
+N153;Bus;Transdev Boucle des Lys
+1;Bus;Keolis Grand Paris Vallée de la Marne
+2;Bus;Keolis Grand Paris Vallée de la Marne
+5;Bus;Keolis Grand Paris Vallée de la Marne
+5410;Bus;RD Mantois
+Filéo OTH;Bus;Keolis Roissy Pays de France Ouest
+Filéo SAR;Bus;Keolis Roissy Pays de France Ouest
+95-34;Bus;Transdev Vexin
+95-35;Bus;Transdev Vexin
+Filéo GSV;Bus;Keolis Roissy Pays de France Ouest
+5198;Bus;Francilité Saint-Quentin-en-Yvelines
+5413;Bus;RD Mantois
+Filéo VLB;Bus;Keolis Roissy Pays de France Ouest
+5412;Bus;RD Mantois
+3301;Bus;Francilité Pays de Montereau
+3303;Bus;Francilité Pays de Montereau
+5462;Bus;RD Mantois
+3304;Bus;Francilité Pays de Montereau
+6160;Bus;Keolis Vélizy Vallée de la Bièvre
+3310;Bus;Francilité Pays de Montereau
+2113;Bus;Keolis Roissy Pays de France Est
+3305;Bus;Francilité Pays de Montereau
+1516;Bus;Transdev Valmy
+1515;Bus;Transdev Valmy
+3311;Bus;Francilité Pays de Montereau
+6134;Bus;Keolis Vélizy Vallée de la Bièvre
+3306;Bus;Francilité Pays de Montereau
+9102;Bus;Francilité Ouest Essonne
+3702;Bus;Transdev Senart
+9103;Bus;Francilité Ouest Essonne
+4504;Bus;Transdev Cœur Essonne
+91-05;Bus;RD Saclay
+91-06;Bus;RD Saclay
+N66;Bus;RATP
+4457;Bus;Francilité Ouest Essonne
+91-08;Bus;RD Saclay
+4122;Bus;Keolis Val d'Yerres Val de Seine
+254;Bus;RATP
+5154;Bus;Francilité Express Ouest
+602;Bus;Keolis Grand Paris Vallée de la Marne
+380;Bus;RATP
+9118;Bus;Transdev Cœur Essonne
+603;Bus;Keolis Grand Paris Vallée de la Marne
+604;Bus;Keolis Grand Paris Vallée de la Marne
+605;Bus;Keolis Grand Paris Vallée de la Marne
+4306;Bus;Keolis Val d'Essonne Deux Vallées
+607;Bus;Transdev Nord Seine-Saint-Denis
+4316;Bus;Keolis Val d'Essonne Deux Vallées
+609;Bus;Transdev Nord Seine-Saint-Denis
+32 ZA;Bus;Keolis Roissy Pays de France Ouest
+R114;Bus;Keolis Roissy Pays de France Ouest
+02E;Bus;Transdev Marne-et-Ourcq
+610;Bus;Transdev Nord Seine-Saint-Denis
+486;Bus;RATP
+613;Bus;Keolis Grand Paris Vallée de la Marne
+615;Bus;Transdev Nord Seine-Saint-Denis
+17;Bus;Keolis Argenteuil Boucles de Seine
+Filéo SP;Bus;Keolis Roissy Pays de France Ouest
+4330;Bus;Keolis Val d'Essonne Deux Vallées
+616;Bus;Transdev Nord Seine-Saint-Denis
+4331;Bus;Keolis Val d'Essonne Deux Vallées
+617;Bus;Transdev Nord Seine-Saint-Denis
+260;Bus;RATP
+618;Bus;Transdev Nord Seine-Saint-Denis
+3514;Bus;Transdev Vallée du Loing
+619;Bus;Transdev Nord Seine-Saint-Denis
+3547;Bus;Transdev Vallée du Loing
+620;Bus;Transdev Nord Seine-Saint-Denis
+1349;Bus;Keolis Nord Val d’Oise
+A;Bus;Transdev Brie et 2 Morin
+623;Bus;Keolis Grand Paris Vallée de la Marne
+B;Bus;Transdev Brie et 2 Morin
+637;Bus;Transdev Nord Seine-Saint-Denis
+3261;Bus;Francilité Grand Provinois
+7707;Bus;Francilité Grand Provinois
+4580;Bus;Transdev Cœur Essonne
+3218;Bus;Francilité Grand Provinois
+CitéVal C;Bus;Francilité Val Parisis
+CitéVal F;Bus;Francilité Val Parisis
+3211;Bus;Francilité Grand Provinois
+30-21Oues;Bus;Francilité Val Parisis
+3245;Bus;Francilité Grand Provinois
+4406;Bus;Francilité Ouest Essonne
+27;Bus;Keolis Roissy Pays de France Ouest
+3212;Bus;Francilité Grand Provinois
+3213;Bus;Francilité Grand Provinois
+3214;Bus;Francilité Grand Provinois
+3315;Bus;Francilité Pays de Montereau
+Filéo RS;Bus;Keolis Roissy Pays de France Ouest
+3249;Bus;Francilité Grand Provinois
+3246;Bus;Francilité Grand Provinois
+3208;Bus;Francilité Grand Provinois
+3207;Bus;Francilité Grand Provinois
+3209;Bus;Francilité Grand Provinois
+TàD 3209;Bus;Francilité Grand Provinois
+5134;Bus;Francilité Saint-Quentin-en-Yvelines
+5121;Bus;Francilité Saint-Quentin-en-Yvelines
+EX 100;Bus;Keolis Grand Paris Vallée de la Marne
+4581;Bus;Transdev Cœur Essonne
+5132;Bus;Francilité Saint-Quentin-en-Yvelines
+4416;Bus;Francilité Ouest Essonne
+4417;Bus;Francilité Ouest Essonne
+4418;Bus;Francilité Ouest Essonne
+5120;Bus;Francilité Saint-Quentin-en-Yvelines
+03A;Bus;Transdev Brie et 2 Morin
+5122;Bus;Francilité Saint-Quentin-en-Yvelines
+03B;Bus;Transdev Brie et 2 Morin
+5104;Bus;Francilité Saint-Quentin-en-Yvelines
+5105;Bus;Francilité Saint-Quentin-en-Yvelines
+03C;Bus;Transdev Brie et 2 Morin
+1;Bus;Mobicité
+2;Bus;Mobicité
+A;Bus;Autocars Dominique
+B;Bus;Autocars Dominique
+5107;Bus;Francilité Saint-Quentin-en-Yvelines
+C;Bus;Autocars Dominique
+D;Bus;Autocars Dominique
+G;Bus;Autocars Dominique
+J;Bus;Autocars Dominique
+5106;Bus;Francilité Saint-Quentin-en-Yvelines
+PORT;Bus;RATP
+5143;Bus;Francilité Saint-Quentin-en-Yvelines
+5144;Bus;Francilité Saint-Quentin-en-Yvelines
+U;Bus;SNCF
+5142;Bus;Francilité Saint-Quentin-en-Yvelines
+P;Bus;SNCF
+5133;Bus;Francilité Saint-Quentin-en-Yvelines
+5145;Bus;Francilité Saint-Quentin-en-Yvelines
+H;Bus;SNCF
+5103;Bus;Francilité Saint-Quentin-en-Yvelines
+5152;Bus;Francilité Saint-Quentin-en-Yvelines
+5150;Bus;Francilité Saint-Quentin-en-Yvelines
+5151;Bus;Francilité Saint-Quentin-en-Yvelines
+7805;Bus;Francilité Express Ouest
+N;Bus;SNCF
+CDG;Bus;Magical Shuttle
+Orly;Bus;Magical Shuttle
+701;Bus;Keolis Grand Paris Vallée de la Marne
+702;Bus;Transdev Nord Seine-Saint-Denis
+J;Bus;SNCF
+703;Bus;Transdev Nord Seine-Saint-Denis
+95-04;Bus;Transdev Vexin
+95-11;Bus;Transdev Vexin
+95-41;Bus;Transdev Vexin
+L;Bus;SNCF
+R;Bus;SNCF
+95-42;Bus;Transdev Vexin
+95-43;Bus;Transdev Vexin
+95-44;Bus;Transdev Vexin
+A;Bus;SNCF
+B;Bus;SNCF
+C;Bus;SNCF
+95-45;Bus;Transdev Vexin
+95-46;Bus;Transdev Vexin
+D;Bus;SNCF
+95-47;Bus;Transdev Vexin
+9;Bus;RD Saclay
+E;Bus;SNCF
+2124;Bus;Keolis Roissy Pays de France Est
+20;Bus;Keolis Roissy Pays de France Ouest
+9101;Bus;Keolis Val d'Yerres Val de Seine
+6240;Bus;Transdev Versailles
+5235;Bus;Transdev Sud Yvelines
+5338;Bus;Transdev Sud Yvelines
+5240;Bus;Transdev Sud Yvelines
+5241;Bus;Transdev Sud Yvelines
+5245;Bus;Transdev Sud Yvelines
+5348;Bus;Transdev Sud Yvelines
+5251;Bus;Transdev Sud Yvelines
+5355;Bus;Transdev Sud Yvelines
+5298;Bus;Transdev Sud Yvelines
+48;Bus;Transdev Brie et 2 Morin
+21S;Bus;Transdev Marne-et-Ourcq
+4A;Bus;Transdev Marne-et-Ourcq
+259;Bus;RATP
+30-49;Bus;Francilité Val Parisis
+168;Bus;RATP
+353;Bus;RATP
+2235;Bus;Transdev Marne-la-Vallée
+2231;Bus;Transdev Marne-la-Vallée
+4307;Bus;Keolis Val d'Essonne Deux Vallées
+4308;Bus;Keolis Val d'Essonne Deux Vallées
+4327;Bus;Keolis Val d'Essonne Deux Vallées
+4328;Bus;Keolis Val d'Essonne Deux Vallées
+4329;Bus;Keolis Val d'Essonne Deux Vallées
+12A;Bus;Transdev Brie et 2 Morin
+12B;Bus;Transdev Brie et 2 Morin
+12C;Bus;Transdev Brie et 2 Morin
+6276;Bus;Transdev Versailles
+31A;Bus;Transdev Brie et 2 Morin
+31B;Bus;Transdev Brie et 2 Morin
+31C;Bus;Transdev Brie et 2 Morin
+1233;Bus;Francilité Seine et Oise
+1225;Bus;Francilité Seine et Oise
+3129;Bus;Keolis Portes et Val de Brie
+3128;Bus;Keolis Portes et Val de Brie
+3122;Bus;Keolis Portes et Val de Brie
+3125;Bus;Keolis Portes et Val de Brie
+643;Bus;Keolis Grand Paris Vallée de la Marne
+02A;Bus;Transdev Brie et 2 Morin
+02B;Bus;Transdev Brie et 2 Morin
+02C;Bus;Transdev Brie et 2 Morin
+02D;Bus;Transdev Brie et 2 Morin
+02E;Bus;Transdev Brie et 2 Morin
+02F;Bus;Transdev Brie et 2 Morin
+4155;Bus;Keolis Val d'Yerres Val de Seine
+4156;Bus;Keolis Val d'Yerres Val de Seine
+3137;Bus;Keolis Portes et Val de Brie
+3140;Bus;Keolis Portes et Val de Brie
+4275;Bus;TISSE
+4276;Bus;TISSE
+3451;Bus;Transdev Pays de Fontainebleau
+3453;Bus;Transdev Pays de Fontainebleau
+3550;Bus;Transdev Vallée du Loing
+3556;Bus;Transdev Vallée du Loing
+3557;Bus;Transdev Vallée du Loing
+3458;Bus;Transdev Pays de Fontainebleau
+3455;Bus;Transdev Pays de Fontainebleau
+3454;Bus;Transdev Pays de Fontainebleau
+4341;Bus;Keolis Val d'Essonne Deux Vallées
+4342;Bus;Keolis Val d'Essonne Deux Vallées
+4343;Bus;Keolis Val d'Essonne Deux Vallées
+4344;Bus;Keolis Val d'Essonne Deux Vallées
+4346;Bus;Keolis Val d'Essonne Deux Vallées
+5435;Bus;RD Mantois
+5433;Bus;RD Mantois
+5474;Bus;RD Mantois
+5432;Bus;RD Mantois
+10;Bus;Transdev Brie et 2 Morin
+3204;Bus;Francilité Grand Provinois
+3120;Bus;Keolis Portes et Val de Brie
+3124;Bus;Keolis Portes et Val de Brie
+25;Bus;Transdev Brie et 2 Morin
+26;Bus;Transdev Brie et 2 Morin
+2262;Bus;Transdev Marne-la-Vallée
+8A;Bus;Transdev Brie et 2 Morin
+8B;Bus;Transdev Brie et 2 Morin
+8C;Bus;Transdev Brie et 2 Morin
+10;Bus;Transdev Marne-et-Ourcq
+S;Bus;Transdev Marne-et-Ourcq
+12;Bus;Transdev Brie et 2 Morin
+2264;Bus;Transdev Marne-la-Vallée
+L;Bus;Transdev Marne-et-Ourcq
+18;Bus;Transdev Brie et 2 Morin
+19;Bus;Transdev Marne-et-Ourcq
+M;Bus;Transdev Marne-et-Ourcq
+21;Bus;Transdev Marne-et-Ourcq
+22;Bus;Transdev Marne-et-Ourcq
+23;Bus;Transdev Marne-et-Ourcq
+31;Bus;Transdev Brie et 2 Morin
+31S;Bus;Transdev Brie et 2 Morin
+32;Bus;Transdev Brie et 2 Morin
+33;Bus;Transdev Brie et 2 Morin
+34;Bus;Transdev Brie et 2 Morin
+34S1;Bus;Transdev Brie et 2 Morin
+35;Bus;Transdev Brie et 2 Morin
+40;Bus;Transdev Marne-et-Ourcq
+41;Bus;Transdev Marne-et-Ourcq
+3733;Bus;Transdev Senart
+3604;Bus;Transdev Melun
+3609;Bus;Transdev Melun
+3607;Bus;Transdev Melun
+3608;Bus;Transdev Melun
+3602;Bus;Transdev Melun
+3603;Bus;Transdev Melun
+3601;Bus;Transdev Melun
+3605;Bus;Transdev Melun
+3606;Bus;Transdev Melun
+3610;Bus;Transdev Melun
+3656;Bus;Transdev Melun
+3612;Bus;Transdev Melun
+3654;Bus;Transdev Melun
+3611;Bus;Transdev Melun
+3651;Bus;Transdev Melun
+3652;Bus;Transdev Melun
+3653;Bus;Transdev Melun
+3634;Bus;Transdev Melun
+3630;Bus;Transdev Melun
+J;Bus;Transdev Marne-et-Ourcq
+Js;Bus;Transdev Marne-et-Ourcq
+F;Bus;Transdev Marne-et-Ourcq
+4;Bus;Transdev Marne-et-Ourcq
+42;Bus;Transdev Marne-et-Ourcq
+46;Bus;Transdev Marne-et-Ourcq
+49;Bus;Transdev Brie et 2 Morin
+50;Bus;Transdev Marne-et-Ourcq
+52;Bus;Transdev Marne-et-Ourcq
+54;Bus;Transdev Marne-et-Ourcq
+54B;Bus;Transdev Marne-et-Ourcq
+56;Bus;Transdev Brie et 2 Morin
+56S;Bus;Transdev Brie et 2 Morin
+2261;Bus;Transdev Marne-la-Vallée
+59;Bus;Transdev Brie et 2 Morin
+2260;Bus;Transdev Marne-la-Vallée
+61;Bus;Transdev Marne-et-Ourcq
+62E;Bus;Transdev Brie et 2 Morin
+R;Bus;Transdev Marne-et-Ourcq
+K;Bus;Transdev Marne-et-Ourcq
+70;Bus;Transdev Brie et 2 Morin
+73;Bus;Transdev Brie et 2 Morin
+B;Bus;Transdev Marne-et-Ourcq
+A;Bus;Transdev Marne-et-Ourcq
+H;Bus;Transdev Marne-et-Ourcq
+G;Bus;Transdev Marne-et-Ourcq
+D;Bus;Transdev Marne-et-Ourcq
+I;Bus;Transdev Marne-et-Ourcq
+27;Bus;Transdev Brie et 2 Morin
+29A;Bus;Transdev Brie et 2 Morin
+3132;Bus;Keolis Portes et Val de Brie
+3133;Bus;Keolis Portes et Val de Brie
+38;Bus;Transdev Brie et 2 Morin
+3139;Bus;Keolis Portes et Val de Brie
+40;Bus;Transdev Brie et 2 Morin
+41A;Bus;Transdev Brie et 2 Morin
+01E;Bus;Transdev Brie et 2 Morin
+5206;Bus;Transdev Sud Yvelines
+5289;Bus;Transdev Sud Yvelines
+6241;Bus;Transdev Versailles
+7818;Bus;Francilité Express Ouest
+1353;Bus;Keolis Nord Val d’Oise
+30-05;Bus;Francilité Val Parisis
+30-09;Bus;Francilité Val Parisis
+30-10;Bus;Francilité Val Parisis
+30-11;Bus;Francilité Val Parisis
+30-12;Bus;Francilité Val Parisis
+1518;Bus;Transdev Valmy
+30-14;Bus;Francilité Val Parisis
+30-18;Bus;Francilité Val Parisis
+30-22;Bus;Francilité Val Parisis
+30-23;Bus;Francilité Val Parisis
+6576;Bus;Keolis Seine et Oise Est
+30-28;Bus;Francilité Val Parisis
+1351;Bus;Keolis Nord Val d’Oise
+30-31;Bus;Francilité Val Parisis
+30-32;Bus;Francilité Val Parisis
+30-33;Bus;Francilité Val Parisis
+30-34;Bus;Francilité Val Parisis
+1316;Bus;Keolis Nord Val d’Oise
+30-37;Bus;Francilité Val Parisis
+30-38;Bus;Francilité Val Parisis
+482;Bus;Keolis Ouest Val-de-Marne
+Licorne;Bus;Keolis Ouest Val-de-Marne
+483;Bus;Keolis Ouest Val-de-Marne
+480;Bus;Keolis Ouest Val-de-Marne
+282;Bus;Keolis Ouest Val-de-Marne
+3103;Bus;Keolis Portes et Val de Brie
+3104;Bus;Keolis Portes et Val de Brie
+3105;Bus;Keolis Portes et Val de Brie
+3107;Bus;Keolis Portes et Val de Brie
+3110;Bus;Keolis Portes et Val de Brie
+3111;Bus;Keolis Portes et Val de Brie
+3114;Bus;Keolis Portes et Val de Brie
+3118;Bus;Keolis Portes et Val de Brie
+3119;Bus;Keolis Portes et Val de Brie
+3123;Bus;Keolis Portes et Val de Brie
+3115;Bus;Keolis Portes et Val de Brie
+3145;Bus;Keolis Portes et Val de Brie
+3109;Bus;Keolis Portes et Val de Brie
+3146;Bus;Keolis Portes et Val de Brie
+3147;Bus;Keolis Portes et Val de Brie
+7716;Bus;Keolis Portes et Val de Brie
+501;Bus;Keolis Grand Paris Vallée de la Marne
+502;Bus;Keolis Grand Paris Vallée de la Marne
+E;Bus;Keolis Grand Paris Vallée de la Marne
+A;Bus;Keolis Grand Paris Vallée de la Marne
+69E;Bus;Transdev Marne-et-Ourcq
+3734;Bus;Transdev Senart
+3737;Bus;Transdev Senart
+2160;Bus;Keolis Roissy Pays de France Est
+2161;Bus;Keolis Roissy Pays de France Est
+2162;Bus;Keolis Roissy Pays de France Est
+2164;Bus;Keolis Roissy Pays de France Est
+1257;Bus;Francilité Seine et Oise
+2165;Bus;Keolis Roissy Pays de France Est
+2166;Bus;Keolis Roissy Pays de France Est
+2157;Bus;Keolis Roissy Pays de France Est
+N148;Bus;Francilité Val Parisis
+V;Bus;SNCF
+245;Bus;RATP
+202;Bus;RATP
+5477;Bus;RD Mantois
+7825;Bus;RD Mantois
+3447;Bus;Transdev Pays de Fontainebleau
+3418;Bus;Transdev Pays de Fontainebleau
+A04 VIL;Bus;Aéroport Paris-Beauvais / SAGEB
+4242;Bus;TISSE
+9112;Bus;TISSE
+3771;Bus;Transdev Senart
+3777;Bus;Transdev Senart
+3772;Bus;Transdev Senart
+26;Bus;Keolis Argenteuil Boucles de Seine
+25;Bus;Keolis Argenteuil Boucles de Seine
+4136;Bus;Keolis Val d'Yerres Val de Seine
+612;Bus;Transdev Nord Seine-Saint-Denis
+4250;Bus;TISSE
+4251;Bus;TISSE
+N162;Bus;Transdev Sud Yvelines
+N160;Bus;Transdev Sud Yvelines
+5234;Bus;Francilité Express Ouest
+7817;Bus;Transdev Sud Yvelines
+Soir;Bus;Francilité Saint-Quentin-en-Yvelines
+N123;Bus;Transdev Cœur Essonne
+Soir;Bus;Transdev Cœur Essonne
+4513;Bus;Transdev Cœur Essonne
+4536;Bus;Transdev Cœur Essonne
+Filéo com;Bus;Keolis Roissy Pays de France Ouest
+Soir;Bus;RD Mantois
+2281;Bus;Transdev Marne-la-Vallée
+2282;Bus;Transdev Marne-la-Vallée
+2283;Bus;Transdev Marne-la-Vallée
+2284;Bus;Transdev Marne-la-Vallée
+2254;Bus;Transdev Marne-la-Vallée
+Soir;Bus;Keolis Nord Val d’Oise
+A03 DEF;Bus;Aéroport Paris-Beauvais / SAGEB
+23S;Bus;Transdev Marne-et-Ourcq
+3752;Bus;Transdev Senart
+60;Bus;Keolis Argenteuil Boucles de Seine
+62;Bus;Keolis Argenteuil Boucles de Seine
+63;Bus;Keolis Argenteuil Boucles de Seine
+3417;Bus;Transdev Pays de Fontainebleau
+Soir;Bus;Transdev Marne-la-Vallée
+2150;Bus;Keolis Roissy Pays de France Est
+2151;Bus;Keolis Roissy Pays de France Est
+2152;Bus;Keolis Roissy Pays de France Est
+2153;Bus;Keolis Roissy Pays de France Est
+2154;Bus;Keolis Roissy Pays de France Est
+2155;Bus;Keolis Roissy Pays de France Est
+2156;Bus;Keolis Roissy Pays de France Est
+2158;Bus;Keolis Roissy Pays de France Est
+2159;Bus;Keolis Roissy Pays de France Est
+6579;Bus;Keolis Seine et Oise Est
+6580;Bus;Keolis Seine et Oise Est
+6581;Bus;Keolis Seine et Oise Est
+6582;Bus;Keolis Seine et Oise Est
+5404;Bus;RD Mantois
+5463;Bus;RD Mantois
+5403;Bus;RD Mantois
+4627;Bus;RD Saclay
+4665;Bus;RD Saclay
+4666;Bus;RD Saclay
+4673;Bus;RD Saclay
+4674;Bus;RD Saclay
+4672;Bus;RD Saclay
+4670;Bus;RD Saclay
+4654;Bus;RD Saclay
+4652;Bus;RD Saclay
+K;Bus;SNCF
+5317;Bus;Transdev Sud Yvelines
+30-03;Bus;Francilité Val Parisis
+TER;regionalRail;SNCF
+3134;Bus;Keolis Portes et Val de Brie
+9;Metro;RATP
+10;Metro;RATP
+11;Metro;RATP
+12;Metro;RATP
+13;Metro;RATP
+14;Metro;RATP
+3B;Metro;RATP
+7B;Metro;RATP
+CDG VAL;RailShuttle;ADP
+ORLYVAL;RailShuttle;RATP
+3735;Bus;Transdev Senart
+C;Bus;Transdev Marne-et-Ourcq
+9501;Bus;Keolis Roissy Pays de France Ouest
+9502;Bus;Keolis Roissy Pays de France Ouest
+6531;Bus;Keolis Seine et Oise Est
+6540;Bus;Keolis Seine et Oise Est
+6591;Bus;Keolis Seine et Oise Est
+6517;Bus;Keolis Seine et Oise Est
+7809;Bus;Keolis Seine et Oise Est
+6512;Bus;Keolis Seine et Oise Est
+6570;Bus;Keolis Seine et Oise Est
+5323;Bus;Transdev Sud Yvelines
+5295;Bus;Transdev Sud Yvelines
+53;Bus;Transdev Marne-et-Ourcq
+6532;Bus;Keolis Seine et Oise Est
+6503;Bus;Keolis Seine et Oise Est
+6536;Bus;Keolis Seine et Oise Est
+6510;Bus;Keolis Seine et Oise Est
+7804;Bus;Francilité Express Ouest
+5437;Bus;RD Mantois
+1;Bus;Keolis Argenteuil Boucles de Seine
+2;Bus;Keolis Argenteuil Boucles de Seine
+4;Bus;Keolis Argenteuil Boucles de Seine
+8;Bus;Keolis Argenteuil Boucles de Seine
+9;Bus;Keolis Argenteuil Boucles de Seine
+1510;Bus;Transdev Valmy
+1512;Bus;Transdev Valmy
+1513;Bus;Transdev Valmy
+95-22;Bus;Transdev Vexin
+95-23;Bus;Transdev Vexin
+95-24;Bus;Transdev Vexin
+95-25;Bus;Transdev Vexin
+EX01;Bus;Transdev Boucle des Lys
+8;Bus;Transdev Boucle des Lys
+9;Bus;Transdev Boucle des Lys
+10;Bus;Transdev Boucle des Lys
+15;Bus;Transdev Boucle des Lys
+7816;Bus;Francilité Express Ouest
+18s;Bus;Transdev Boucle des Lys
+21;Bus;Transdev Boucle des Lys
+R4;Bus;Transdev Boucle des Lys
+R5;Bus;Transdev Boucle des Lys
+R2N;Bus;Transdev Boucle des Lys
+R2S;Bus;Transdev Boucle des Lys
+R1;Bus;Transdev Boucle des Lys
+R3N;Bus;Transdev Boucle des Lys
+R3S;Bus;Transdev Boucle des Lys
+5311;Bus;Transdev Sud Yvelines
+5233;Bus;Transdev Sud Yvelines
+5334;Bus;Transdev Sud Yvelines
+5325;Bus;Transdev Sud Yvelines
+4461;Bus;Francilité Ouest Essonne
+5208;Bus;Transdev Sud Yvelines
+P;Transilien;SNCF
+R;Transilien;SNCF
+N;Transilien;SNCF
+H;Transilien;SNCF
+K;Transilien;SNCF
+J;Transilien;SNCF
+L;Transilien;SNCF
+U;Transilien;SNCF
+V;Transilien;SNCF
+4220;Bus;TISSE
+5216;Bus;Transdev Sud Yvelines
+3531;Bus;Transdev Vallée du Loing
+3532;Bus;Transdev Vallée du Loing
+3533;Bus;Transdev Vallée du Loing
+3535;Bus;Transdev Vallée du Loing
+3541;Bus;Transdev Vallée du Loing
+3506;Bus;Transdev Vallée du Loing
+3542;Bus;Transdev Vallée du Loing
+3511;Bus;Transdev Vallée du Loing
+3512;Bus;Transdev Vallée du Loing
+3513;Bus;Transdev Vallée du Loing
+3516;Bus;Transdev Vallée du Loing
+3517;Bus;Transdev Vallée du Loing
+3519;Bus;Transdev Vallée du Loing
+3537;Bus;Transdev Vallée du Loing
+3546;Bus;Transdev Vallée du Loing
+4430;Bus;Francilité Ouest Essonne
+4431;Bus;Francilité Ouest Essonne
+4432;Bus;Francilité Ouest Essonne
+4433;Bus;Francilité Ouest Essonne
+5426;Bus;RD Mantois
+5221;Bus;Transdev Sud Yvelines
+5342;Bus;Transdev Sud Yvelines
+5231;Bus;Transdev Sud Yvelines
+3143;Bus;Keolis Portes et Val de Brie
+443;Bus;Transdev Côteaux de la Marne
+444;Bus;Transdev Côteaux de la Marne
+09A;Bus;Transdev Brie et 2 Morin
+09B;Bus;Transdev Brie et 2 Morin
+09C;Bus;Transdev Brie et 2 Morin
+3126;Bus;Keolis Portes et Val de Brie
+3130;Bus;Keolis Portes et Val de Brie
+3127;Bus;Keolis Portes et Val de Brie
+3148;Bus;Keolis Portes et Val de Brie
+3131;Bus;Keolis Portes et Val de Brie
+3135;Bus;Keolis Portes et Val de Brie
+3136;Bus;Keolis Portes et Val de Brie
+3138;Bus;Keolis Portes et Val de Brie
+3;Bus;Keolis Grand Paris Vallée de la Marne
+3s;Bus;Keolis Grand Paris Vallée de la Marne
+6;Bus;Keolis Grand Paris Vallée de la Marne
+9s;Bus;Keolis Grand Paris Vallée de la Marne
+7s;Bus;Keolis Grand Paris Vallée de la Marne
+7;Bus;Keolis Grand Paris Vallée de la Marne
+4;Bus;Keolis Grand Paris Vallée de la Marne
+4s;Bus;Keolis Grand Paris Vallée de la Marne
+8s;Bus;Keolis Grand Paris Vallée de la Marne
+1229;Bus;Francilité Seine et Oise
+1305;Bus;Keolis Nord Val d’Oise
+430;Bus;Transdev Côteaux de la Marne
+S17;Bus;RD Saclay
+D;Bus;Keolis Argenteuil Boucles de Seine
+337;Bus;RATP
+Traverse;Bus;Autocars Dominique
+4554;Bus;Transdev Cœur Essonne
+4321;Bus;Keolis Val d'Essonne Deux Vallées
+4322;Bus;Keolis Val d'Essonne Deux Vallées
+116;Bus;RD Saclay
+6230;Bus;Transdev Versailles
+6534;Bus;Keolis Seine et Oise Est
+S6;Bus;Keolis Argenteuil Boucles de Seine
+2129;Bus;Keolis Roissy Pays de France Est
+2168;Bus;Keolis Roissy Pays de France Est
+2171;Bus;Keolis Roissy Pays de France Est
+THIAIS;Bus;Paris Seine Mobilités
+6504;Bus;Keolis Seine et Oise Est
+95-06;Bus;Transdev Vexin
+95-12;Bus;Transdev Vexin
+95-31;Bus;Transdev Vexin
+95-32;Bus;Transdev Vexin
+95-33;Bus;Transdev Vexin
+40;Bus;RATP
+95-29;Bus;Francilité Val Parisis
+3440;Bus;Transdev Pays de Fontainebleau
+20;Bus;Keolis Argenteuil Boucles de Seine
+T'bus 1;Bus;Transdev Nord Seine-Saint-Denis
+T'bus 2;Bus;Transdev Nord Seine-Saint-Denis
+T'bus 3;Bus;Transdev Nord Seine-Saint-Denis
+4434;Bus;Francilité Ouest Essonne
+4435;Bus;Francilité Ouest Essonne
+3661;Bus;Transdev Melun
+3662;Bus;Transdev Melun
+3663;Bus;Transdev Melun
+3664;Bus;Transdev Melun
+3631;Bus;Transdev Melun
+3424;Bus;Transdev Pays de Fontainebleau
+3420;Bus;Transdev Pays de Fontainebleau
+3423;Bus;Transdev Pays de Fontainebleau
+3666;Bus;Transdev Melun
+3632;Bus;Transdev Melun
+3657;Bus;Transdev Melun
+3658;Bus;Transdev Melun
+5226;Bus;Transdev Sud Yvelines
+4C;Bus;Transdev Marne-et-Ourcq
+A02 SDU;Bus;Aéroport Paris-Beauvais / SAGEB
+A05 DIS;Bus;Aéroport Paris-Beauvais / SAGEB
+4584;Bus;Transdev Cœur Essonne
+61;Bus;Keolis Argenteuil Boucles de Seine
+4671;Bus;RD Saclay
+6529;Bus;Keolis Seine et Oise Est
+TàD 4596;Bus;Transdev Cœur Essonne
+TàD;Bus;RD Saclay
+3112;Bus;Keolis Portes et Val de Brie
+TàD 3144;Bus;Keolis Portes et Val de Brie
+5267;Bus;Transdev Sud Yvelines
+4230;Bus;TISSE
+4274;Bus;TISSE
+4112;Bus;Keolis Val d'Yerres Val de Seine
+4243;Bus;TISSE
+4273;Bus;TISSE
+4334;Bus;Keolis Val d'Essonne Deux Vallées
+4233;Bus;TISSE
+95-05;Bus;Transdev Vexin
+95-07;Bus;Transdev Vexin
+95-08;Bus;Transdev Vexin
+95-16;Bus;Transdev Vexin
+1317;Bus;Keolis Nord Val d’Oise
+5315;Bus;Transdev Sud Yvelines
+5327;Bus;Transdev Sud Yvelines
+5110;Bus;Francilité Saint-Quentin-en-Yvelines
+6211;Bus;Transdev Versailles
+5312;Bus;Transdev Sud Yvelines
+5324;Bus;Transdev Sud Yvelines
+7815;Bus;Francilité Express Ouest
+5117;Bus;Francilité Express Ouest
+5214;Bus;Transdev Sud Yvelines
+EX 100;Bus;Keolis Nord Val d’Oise
+5112;Bus;Francilité Saint-Quentin-en-Yvelines
+5101;Bus;Francilité Saint-Quentin-en-Yvelines
+6287;Bus;Transdev Versailles
+5201;Bus;Transdev Sud Yvelines
+5219;Bus;Transdev Sud Yvelines
+18;Bus;Keolis Argenteuil Boucles de Seine
+1511;Bus;Transdev Valmy
+1533;Bus;Transdev Valmy
+34;Bus;Keolis Argenteuil Boucles de Seine
+1537;Bus;Transdev Valmy
+6;Bus;Keolis Argenteuil Boucles de Seine
+501;Bus;Keolis Argenteuil Boucles de Seine
+502;Bus;Keolis Argenteuil Boucles de Seine
+503;Bus;Keolis Argenteuil Boucles de Seine
+7;Bus;Keolis Argenteuil Boucles de Seine
+1514;Bus;Transdev Valmy
+J;Bus;Keolis Argenteuil Boucles de Seine
+H;Bus;Keolis Argenteuil Boucles de Seine
+4301;Bus;Keolis Val d'Essonne Deux Vallées
+4303;Bus;Keolis Val d'Essonne Deux Vallées
+4530;Bus;Transdev Cœur Essonne
+12;Bus;Keolis Argenteuil Boucles de Seine
+N143;Bus;Keolis Roissy Pays de France Ouest
+6281;Bus;Transdev Versailles
+6282;Bus;Transdev Versailles
+A;Bus;Keolis Argenteuil Boucles de Seine
+E;Bus;Keolis Argenteuil Boucles de Seine
+K;Bus;Keolis Argenteuil Boucles de Seine
+C;Bus;Keolis Argenteuil Boucles de Seine
+M;Bus;Keolis Argenteuil Boucles de Seine
+G;Bus;Keolis Argenteuil Boucles de Seine
+401;Bus;RD Bièvre
+402;Bus;RD Bièvre
+3;Bus;Transdev Vallée Sud
+412;Bus;RD Bièvre
+6;Bus;Transdev Vallée Sud
+7;Bus;Transdev Vallée Sud
+408;Bus;RD Bièvre
+409;Bus;RD Bièvre
+14;Bus;Transdev Vallée Sud
+4113;Bus;Keolis Val d'Yerres Val de Seine
+4118;Bus;Keolis Val d'Yerres Val de Seine
+4114;Bus;Keolis Val d'Yerres Val de Seine
+4150;Bus;Keolis Val d'Yerres Val de Seine
+4159;Bus;Keolis Val d'Yerres Val de Seine
+4160;Bus;Keolis Val d'Yerres Val de Seine
+4161;Bus;Keolis Val d'Yerres Val de Seine
+4162;Bus;Keolis Val d'Yerres Val de Seine
+4151;Bus;Keolis Val d'Yerres Val de Seine
+4116;Bus;Keolis Val d'Yerres Val de Seine
+4117;Bus;Keolis Val d'Yerres Val de Seine
+4121;Bus;Keolis Val d'Yerres Val de Seine
+4277;Bus;TISSE
+4340;Bus;Keolis Val d'Essonne Deux Vallées
+4203;Bus;TISSE
+3307;Bus;Francilité Pays de Montereau
+3302;Bus;Francilité Pays de Montereau
+3438;Bus;Transdev Pays de Fontainebleau
+3434;Bus;Transdev Pays de Fontainebleau
+3435;Bus;Transdev Pays de Fontainebleau
+3436;Bus;Transdev Pays de Fontainebleau
+3430;Bus;Transdev Pays de Fontainebleau
+3433;Bus;Transdev Pays de Fontainebleau
+3319;Bus;Francilité Pays de Montereau
+3240;Bus;Francilité Grand Provinois
+3243;Bus;Francilité Grand Provinois
+3244;Bus;Francilité Grand Provinois
+3201;Bus;Francilité Grand Provinois
+3242;Bus;Francilité Grand Provinois
+3256;Bus;Francilité Grand Provinois
+3250;Bus;Francilité Grand Provinois
+3257;Bus;Francilité Grand Provinois
+3258;Bus;Francilité Grand Provinois
+3202;Bus;Francilité Grand Provinois
+3252;Bus;Francilité Grand Provinois
+3253;Bus;Francilité Grand Provinois
+3260;Bus;Francilité Grand Provinois
+9518;Bus;Keolis Nord Val d’Oise
+5278;Bus;Transdev Sud Yvelines
+7807;Bus;Francilité Express Ouest
+5340;Bus;Transdev Sud Yvelines
+5188;Bus;Francilité Saint-Quentin-en-Yvelines
+5189;Bus;Francilité Saint-Quentin-en-Yvelines
+5190;Bus;Francilité Saint-Quentin-en-Yvelines
+5191;Bus;Francilité Saint-Quentin-en-Yvelines
+5192;Bus;Francilité Saint-Quentin-en-Yvelines
+5193;Bus;Francilité Saint-Quentin-en-Yvelines
+5194;Bus;Francilité Saint-Quentin-en-Yvelines
+5195;Bus;Francilité Saint-Quentin-en-Yvelines
+5196;Bus;Francilité Saint-Quentin-en-Yvelines
+5141;Bus;Francilité Saint-Quentin-en-Yvelines
+5140;Bus;Francilité Saint-Quentin-en-Yvelines
+3101;Bus;Keolis Portes et Val de Brie
+440;Bus;Transdev Côteaux de la Marne
+451;Bus;Transdev Côteaux de la Marne
+3121;Bus;Keolis Portes et Val de Brie
+423;Bus;Keolis Portes et Val de Brie
+431;Bus;Transdev Côteaux de la Marne
+432;Bus;Transdev Côteaux de la Marne
+433;Bus;Transdev Côteaux de la Marne
+434;Bus;Transdev Côteaux de la Marne
+435;Bus;Transdev Côteaux de la Marne
+436;Bus;Transdev Côteaux de la Marne
+22;Bus;Keolis Roissy Pays de France Ouest
+23;Bus;Keolis Roissy Pays de France Ouest
+25;Bus;Keolis Roissy Pays de France Ouest
+24;Bus;Keolis Roissy Pays de France Ouest
+24 S;Bus;Keolis Roissy Pays de France Ouest
+35;Bus;Keolis Roissy Pays de France Ouest
+36;Bus;Keolis Roissy Pays de France Ouest
+37;Bus;Keolis Roissy Pays de France Ouest
+2252;Bus;Transdev Marne-la-Vallée
+2251;Bus;Transdev Marne-la-Vallée
+2290;Bus;Transdev Marne-la-Vallée
+2250;Bus;Transdev Marne-la-Vallée
+2291;Bus;Transdev Marne-la-Vallée
+3117;Bus;Keolis Portes et Val de Brie
+2221;Bus;Transdev Marne-la-Vallée
+2222;Bus;Transdev Marne-la-Vallée
+2223;Bus;Transdev Marne-la-Vallée
+2225;Bus;Transdev Marne-la-Vallée
+2226;Bus;Transdev Marne-la-Vallée
+2229;Bus;Transdev Marne-la-Vallée
+2292;Bus;Transdev Marne-la-Vallée
+2234;Bus;Transdev Marne-la-Vallée
+2253;Bus;Transdev Marne-la-Vallée
+2220;Bus;Transdev Marne-la-Vallée
+2233;Bus;Transdev Marne-la-Vallée
+2244;Bus;Transdev Marne-la-Vallée
+18E;Bus;Transdev Marne-et-Ourcq
+2263;Bus;Transdev Marne-la-Vallée
+EX 19;Bus;Keolis Grand Paris Vallée de la Marne
+6542;Bus;Keolis Seine et Oise Est
+6527;Bus;Keolis Seine et Oise Est
+6528;Bus;Keolis Seine et Oise Est
+6571;Bus;Keolis Seine et Oise Est
+6543;Bus;Keolis Seine et Oise Est
+6537;Bus;Keolis Seine et Oise Est
+6518;Bus;Keolis Seine et Oise Est
+7808;Bus;Francilité Express Ouest
+6541;Bus;Keolis Seine et Oise Est
+7801;Bus;Keolis Seine et Oise Est
+2128;Bus;Keolis Roissy Pays de France Est
+2130;Bus;Keolis Roissy Pays de France Est
+2120;Bus;Keolis Roissy Pays de France Est
+2169;Bus;Keolis Roissy Pays de France Est
+20E;Bus;Transdev Marne-et-Ourcq
+4540;Bus;Transdev Cœur Essonne
+4541;Bus;Transdev Cœur Essonne
+4523;Bus;Transdev Cœur Essonne
+4205;Bus;TISSE
+4505;Bus;Transdev Cœur Essonne
+141;Bus;RATP
+4516;Bus;Transdev Cœur Essonne
+1519;Bus;Transdev Valmy
+30-42;Bus;Francilité Val Parisis
+30-43;Bus;Francilité Val Parisis
+95-03A;Bus;Francilité Val Parisis
+95-03B;Bus;Francilité Val Parisis
+143;Bus;RATP
+95-19;Bus;Francilité Val Parisis
+95-20;Bus;Francilité Val Parisis
+144;Bus;RATP
+95-21;Bus;Francilité Val Parisis
+95-26;Bus;Francilité Val Parisis
+Navette;Bus;Francilité Val Parisis
+CitéVal N;Bus;Francilité Val Parisis
+145;Bus;RATP
+CitéVal S;Bus;Francilité Val Parisis
+3801;Bus;Francilité Val Parisis
+146;Bus;RATP
+1520;Bus;Transdev Valmy
+1521;Bus;Transdev Valmy
+3804;Bus;Francilité Val Parisis
+5232;Bus;Transdev Sud Yvelines
+5313;Bus;Transdev Sud Yvelines
+147;Bus;RATP
+10;Bus;RD Saclay
+148;Bus;RATP
+5252;Bus;Transdev Sud Yvelines
+11;Bus;RD Saclay
+150;Bus;RATP
+5146;Bus;Francilité Express Ouest
+151;Bus;RATP
+5363;Bus;Transdev Sud Yvelines
+5347;Bus;Transdev Sud Yvelines
+5359;Bus;Transdev Sud Yvelines
+152;Bus;RATP
+12;Bus;RD Saclay
+153;Bus;RATP
+5337;Bus;Transdev Sud Yvelines
+157;Bus;RATP
+158;Bus;RATP
+5282;Bus;Transdev Sud Yvelines
+5283;Bus;Transdev Sud Yvelines
+5284;Bus;Transdev Sud Yvelines
+5285;Bus;Transdev Sud Yvelines
+5286;Bus;Transdev Sud Yvelines
+159;Bus;RATP
+5287;Bus;Transdev Sud Yvelines
+5291;Bus;Transdev Sud Yvelines
+5292;Bus;Transdev Sud Yvelines
+5293;Bus;Transdev Sud Yvelines
+5294;Bus;Transdev Sud Yvelines
+5279;Bus;Transdev Sud Yvelines
+160;Bus;RATP
+5242;Bus;Transdev Sud Yvelines
+5281;Bus;Transdev Sud Yvelines
+162;Bus;RATP
+163;Bus;RATP
+5330;Bus;Transdev Sud Yvelines
+5290;Bus;Transdev Sud Yvelines
+13;Bus;RD Saclay
+5153;Bus;Francilité Express Ouest
+5227;Bus;Transdev Sud Yvelines
+5228;Bus;Transdev Sud Yvelines
+5236;Bus;Transdev Sud Yvelines
+6176;Bus;Keolis Vélizy Vallée de la Bièvre
+164;Bus;RATP
+6183;Bus;Keolis Vélizy Vallée de la Bièvre
+6163;Bus;Keolis Vélizy Vallée de la Bièvre
+165;Bus;RATP
+166;Bus;RATP
+167;Bus;RATP
+169;Bus;RATP
+170;Bus;RATP
+171;Bus;RATP
+172;Bus;RATP
+43;Bus;RATP
+46;Bus;RATP
+47;Bus;RATP
+48;Bus;RATP
+52;Bus;RATP
+54;Bus;RATP
+56;Bus;RATP
+57;Bus;RATP
+58;Bus;RATP
+60;Bus;RATP
+61;Bus;RATP
+62;Bus;RATP
+63;Bus;RATP
+64;Bus;RATP
+66;Bus;RATP
+67;Bus;RATP
+68;Bus;RATP
+69;Bus;RATP
+70;Bus;RATP
+72;Bus;RATP
+73;Bus;RATP
+74;Bus;RATP
+75;Bus;RATP
+76;Bus;RATP
+80;Bus;RATP
+173;Bus;RATP
+174;Bus;RATP
+175;Bus;RATP
+176;Bus;RATP
+177;Bus;RATP
+178;Bus;RATP
+179;Bus;RATP
+180;Bus;RATP
+181;Bus;RATP
+182;Bus;RATP
+183;Bus;RATP
+184;Bus;RATP
+185;Bus;RATP
+186;Bus;RATP
+187;Bus;RATP
+188;Bus;RATP
+189;Bus;RATP
+190;Bus;RATP
+191;Bus;RATP
+192;Bus;RATP
+194;Bus;RATP
+195;Bus;RATP
+196;Bus;RATP
+197;Bus;RATP
+199;Bus;RATP
+112;Bus;RATP
+113;Bus;RATP
+114;Bus;RATP
+115;Bus;RATP
+116;Bus;RATP
+117;Bus;RATP
+118;Bus;RATP
+119;Bus;RATP
+120;Bus;RATP
+121;Bus;RATP
+122;Bus;RATP
+123;Bus;RATP
+124;Bus;RATP
+125;Bus;RATP
+126;Bus;RATP
+127;Bus;RATP
+128;Bus;RATP
+129;Bus;RATP
+131;Bus;RATP
+132;Bus;RATP
+133;Bus;RATP
+137;Bus;RATP
+138;Bus;RATP
+139;Bus;RATP
+140;Bus;RATP
+17E;Bus;Transdev Brie et 2 Morin
+TVM;Bus;RATP
+20;Bus;RATP
+21;Bus;RATP
+22;Bus;RATP
+24;Bus;RATP
+26;Bus;RATP
+27;Bus;RATP
+28;Bus;RATP
+29;Bus;RATP
+30;Bus;RATP
+31;Bus;RATP
+32;Bus;RATP
+38;Bus;RATP
+39;Bus;RATP
+42;Bus;RATP
+1205;Bus;Francilité Seine et Oise
+1231;Bus;Francilité Seine et Oise
+1234;Bus;Francilité Seine et Oise
+1227;Bus;Francilité Seine et Oise
+426;Bus;RATP
+6227;Bus;Transdev Versailles
+6231;Bus;Transdev Versailles
+459;Bus;RATP
+471;Bus;RATP
+6216;Bus;Transdev Versailles
+7803;Bus;Francilité Express Ouest
+37;Bus;Keolis Argenteuil Boucles de Seine
+40;Bus;Keolis Argenteuil Boucles de Seine
+6280;Bus;Transdev Versailles
+3407;Bus;Transdev Pays de Fontainebleau
+4531;Bus;Transdev Cœur Essonne
+4534;Bus;Transdev Cœur Essonne
+4533;Bus;Transdev Cœur Essonne
+7704;Bus;Francilité Grand Provinois
+7705;Bus;Francilité Grand Provinois
+3251;Bus;Francilité Grand Provinois
+3262;Bus;Francilité Grand Provinois
+3215;Bus;Francilité Grand Provinois
+4326;Bus;Keolis Val d'Essonne Deux Vallées
+TàD 4597;Bus;Transdev Cœur Essonne
+Soir;Bus;Keolis Val d'Essonne Deux Vallées
+595;Bus;RATP
+7821;Bus;Keolis Seine et Oise Est
+Selected;Bus;Magical Shuttle
+642;Bus;Transdev Nord Seine-Saint-Denis
+644;Bus;Keolis Grand Paris Vallée de la Marne
+5402;Bus;RD Mantois
+5420;Bus;RD Mantois
+5405;Bus;RD Mantois
+5414;Bus;RD Mantois
+5406;Bus;RD Mantois
+5407;Bus;RD Mantois
+5425;Bus;RD Mantois
+5408;Bus;RD Mantois
+5427;Bus;RD Mantois
+4221;Bus;TISSE
+4201;Bus;TISSE
+4206;Bus;TISSE
+4212;Bus;TISSE
+4204;Bus;TISSE
+4241;Bus;TISSE
+4202;Bus;TISSE
+4217;Bus;TISSE
+4244;Bus;TISSE
+4246;Bus;TISSE
+4213;Bus;TISSE
+4214;Bus;TISSE
+4245;Bus;TISSE
+3613;Bus;Transdev Melun
+9;Bus;Keolis Grand Paris Vallée de la Marne
+3259;Bus;Francilité Grand Provinois
+3655;Bus;Transdev Melun
+4309;Bus;Keolis Val d'Essonne Deux Vallées
+6563;Bus;Keolis Seine et Oise Est
+S9;Bus;RD Saclay
+1255;Bus;Francilité Seine et Oise
+1204;Bus;Francilité Seine et Oise
+Qs;Bus;Transdev Marne-et-Ourcq
+Fs;Bus;Transdev Marne-et-Ourcq
+Ls;Bus;Transdev Marne-et-Ourcq
+Ms;Bus;Transdev Marne-et-Ourcq
+Os;Bus;Transdev Marne-et-Ourcq
+N;Bus;Transdev Marne-et-Ourcq
+Ns;Bus;Transdev Marne-et-Ourcq
+E;Bus;Transdev Marne-et-Ourcq
+Es;Bus;Transdev Marne-et-Ourcq
+6246;Bus;Transdev Versailles
+500;Bus;Keolis Grand Paris Vallée de la Marne
+25;Bus;RATP
+45;Bus;RATP
+59;Bus;RATP
+71;Bus;RATP
+7820;Bus;RD Mantois
+77;Bus;RATP
+Ks;Bus;Transdev Marne-et-Ourcq
+5183;Bus;Francilité Saint-Quentin-en-Yvelines
+5184;Bus;Francilité Saint-Quentin-en-Yvelines
+5185;Bus;Francilité Saint-Quentin-en-Yvelines
+5186;Bus;Francilité Saint-Quentin-en-Yvelines
+6253;Bus;Transdev Versailles
+6254;Bus;Transdev Versailles
+4462;Bus;Francilité Ouest Essonne
+4463;Bus;Francilité Ouest Essonne
+3778;Bus;Transdev Senart
+3773;Bus;Transdev Senart
+3776;Bus;Transdev Senart
+29B;Bus;Transdev Brie et 2 Morin
+29M;Bus;Transdev Brie et 2 Morin
+9111;Bus;Francilité Express Ouest
+3411;Bus;Transdev Pays de Fontainebleau
+7802;Bus;Francilité Express Ouest
+PC;Bus;RATP
+95-48;Bus;Transdev Vexin
+71;Bus;Transdev Brie et 2 Morin
+3659;Bus;Transdev Melun
+5123;Bus;Francilité Saint-Quentin-en-Yvelines
+5124;Bus;Francilité Saint-Quentin-en-Yvelines
+5125;Bus;Francilité Saint-Quentin-en-Yvelines
+6252;Bus;Transdev Versailles
+O;Bus;Autocars Dominique
+441;Bus;Transdev Côteaux de la Marne
+442;Bus;Transdev Côteaux de la Marne
+446;Bus;Transdev Côteaux de la Marne
+447;Bus;Transdev Côteaux de la Marne
+448;Bus;Transdev Côteaux de la Marne
+4404;Bus;Francilité Ouest Essonne
+3254;Bus;Francilité Grand Provinois
+3255;Bus;Francilité Grand Provinois
+3247;Bus;Francilité Grand Provinois
+3248;Bus;Francilité Grand Provinois
+209;Bus;RATP
+K;Bus;Autocars Dominique
+6523;Bus;Keolis Seine et Oise Est
+5237;Bus;Transdev Sud Yvelines
+5328;Bus;Transdev Sud Yvelines
+5371;Bus;Transdev Sud Yvelines
+5343;Bus;Transdev Sud Yvelines
+4451;Bus;Francilité Ouest Essonne
+4452;Bus;Francilité Ouest Essonne
+4453;Bus;Francilité Ouest Essonne
+4454;Bus;Francilité Ouest Essonne
+2280;Bus;Transdev Marne-la-Vallée
+L;Bus;Keolis Argenteuil Boucles de Seine
+T;Bus;Keolis Argenteuil Boucles de Seine
+S3;Bus;Keolis Argenteuil Boucles de Seine
+S4;Bus;Keolis Argenteuil Boucles de Seine
+S7;Bus;Keolis Argenteuil Boucles de Seine
+S1;Bus;Keolis Argenteuil Boucles de Seine
+B;Bus;Keolis Argenteuil Boucles de Seine
+F;Bus;Keolis Argenteuil Boucles de Seine
+S5;Bus;Keolis Argenteuil Boucles de Seine
+P;Bus;Keolis Argenteuil Boucles de Seine
+S2;Bus;Keolis Argenteuil Boucles de Seine
+41B;Bus;Transdev Brie et 2 Morin
+15;Bus;RD Saclay
+3429;Bus;Transdev Pays de Fontainebleau
+3421;Bus;Transdev Pays de Fontainebleau
+32S;Bus;Transdev Brie et 2 Morin
+5431;Bus;RD Mantois
+34;Bus;Keolis Roissy Pays de France Ouest
+11.5;Bus;Keolis Roissy Pays de France Ouest
+1352;Bus;Keolis Nord Val d’Oise
+1354;Bus;Keolis Nord Val d’Oise
+5114;Bus;Francilité Saint-Quentin-en-Yvelines
+301;Bus;RATP
+302;Bus;RATP
+303;Bus;RATP
+304;Bus;RATP
+306;Bus;RATP
+308;Bus;RATP
+310;Bus;RATP
+312;Bus;RATP
+317;Bus;RATP
+318;Bus;RATP
+319;Bus;RATP
+320;Bus;RATP
+321;Bus;RATP
+322;Bus;RATP
+323;Bus;RATP
+325;Bus;RATP
+330;Bus;RATP
+340;Bus;RATP
+341;Bus;RATP
+346;Bus;RATP
+350;Bus;RATP
+351;Bus;RATP
+ROISSYBUS;Bus;RATP
+355;Bus;RATP
+356;Bus;RATP
+252;Bus;RATP
+253;Bus;RATP
+255;Bus;RATP
+256;Bus;RATP
+258;Bus;RATP
+261;Bus;RATP
+262;Bus;Keolis Argenteuil Boucles de Seine
+268;Bus;RATP
+269;Bus;RATP
+270;Bus;RATP
+272;Bus;RATP
+274;Bus;RATP
+275;Bus;RATP
+276;Bus;RATP
+278;Bus;RATP
+281;Bus;RATP
+285;Bus;RATP
+286;Bus;RATP
+289;Bus;RATP
+290;Bus;RATP
+291;Bus;RATP
+292;Bus;RATP
+294;Bus;RATP
+297;Bus;RATP
+299;Bus;RATP
+360;Bus;RATP
+361;Bus;RATP
+366;Bus;RATP
+367;Bus;RATP
+368;Bus;RATP
+370;Bus;RATP
+372;Bus;RATP
+378;Bus;RATP
+385;Bus;RATP
+388;Bus;RATP
+389;Bus;RATP
+390;Bus;RATP
+391;Bus;RATP
+393;Bus;RATP
+394;Bus;RATP
+395;Bus;RATP
+396;Bus;RATP
+399;Bus;RATP
+421;Bus;Keolis Grand Paris Vallée de la Marne
+467;Bus;RATP
+485;Bus;RATP
+488;Bus;RATP
+492;Bus;RATP
+CHARONNE;Bus;RATP
+BIEVRES;Bus;RATP
+C;RER;SNCF
+E;RER;SNCF
+A;RER;SNCF
+B;RER;SNCF
+FUN;Funicular;RATP
+N1;Bus;ADP
+4218;Bus;TISSE
+T14;Tramway;STRETTO
+7823;Bus;RD Mantois
+5187;Bus;Francilité Saint-Quentin-en-Yvelines
+P;Bus;Autocars Dominique
+5436;Bus;RD Mantois
+12 ZI;Bus;Keolis Roissy Pays de France Ouest
+5113;Bus;Francilité Saint-Quentin-en-Yvelines
+3241;Bus;Francilité Grand Provinois
+A14;Bus;Transdev Boucle des Lys
+Soir;Bus;Transdev Sud Yvelines
+4575;Bus;Transdev Cœur Essonne
+N2;Bus;ADP
+4455;Bus;Francilité Ouest Essonne
